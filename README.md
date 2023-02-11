@@ -1,1 +1,1 @@
-# Task-5---Codekata-Score-Assessment-
+# Task-5-Codekata-Score-Assessment-
